@@ -2,14 +2,14 @@
 
 ---
 
-### SQL
+### Data Management
 
-[Tableau of Restaurant Ratings](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau of Restaurant Ratings](/pdf/tableau.pdf)
+<img src="images/tableau.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Database Proposal](/pdf/sample_presentation.pdf)
+<img src="images/kickstarter.PNG?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
