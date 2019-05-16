@@ -8,7 +8,7 @@
 <img src="images/tableau.PNG?raw=true"/>
 
 ---
-[Database Proposal](/pdf/sample_presentation.pdf)
+[Database Proposal](/pdf/Kickstarter_Database_Proposal.pdf)
 <img src="images/kickstarter.PNG?raw=true"/>
 
 ---
