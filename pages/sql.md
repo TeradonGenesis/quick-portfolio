@@ -1,31 +1,33 @@
-## This can be your internal website page / project page
+## SQL Examples
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="images/19.PNG?raw=true"/>
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+<img src="images/20.PNG?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/21.PNG?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+---
 
-### 2. Assess assumptions on which statistical inference will be based
+<img src="images/22.PNG?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/23.PNG?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+<img src="images/24.PNG?raw=true"/>
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 
-### 4. Provide a basis for further data collection through surveys or experiments
+<img src="images/25.PNG?raw=true"/>
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<img src="images/26.PNG?raw=true"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/27.PNG?raw=true"/>
+
+---
+
+<img src="images/28.PNG?raw=true"/>
+
+---
+
+<img src="images/29.PNG?raw=true"/>
+
+<img src="images/30.PNG?raw=true"/>
