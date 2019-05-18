@@ -8,6 +8,7 @@
 - [Angular Routing Course Unit Website](https://teradongenesis.github.io/Angular_Routing/)
 - [JSON Highchart](https://teradongenesis.github.io/JSON_Highchart/)
 - [Angular Memory Calculator](https://teradongenesis.github.io/Angular_Web_Calculator_With_Memory_Functions/)
+- [Proposal for A Student LeaderBoard Website](/pdf/UseCase_Proposal_on_A_Student_LeaderBoard.pdf)
 
 ---
 
