@@ -30,7 +30,7 @@
 
 ### C#
 
-[Bank Simulator]
+[Bank Simulator](images/ResultScreenTask12.PNG?raw=true)
 <img src="images/ResultScreenTask12.PNG?raw=true"/>
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
