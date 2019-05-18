@@ -24,13 +24,9 @@
 <img src="images/kickstarter.PNG?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SQL Examples](/pages/sql.md)
 
 ---
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
